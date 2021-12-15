@@ -1,2 +1,1 @@
-# YouTube-ViewBot-Generator
-You can report problem in comment
+Download python file and run it.
