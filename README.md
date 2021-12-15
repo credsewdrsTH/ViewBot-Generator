@@ -1,1 +1,1 @@
-Download python file and run it.
+download ViewBot and Extract it
